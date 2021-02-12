@@ -1,0 +1,19 @@
+{
+  "name": "laptop-store",
+  "version": "1.0.0",
+  "description": "first node study",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeandri/laptop-store.git"
+  },
+  "author": "lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeandri/laptop-store/issues"
+  },
+  "homepage": "https://github.com/leeandri/laptop-store#readme"
+}
